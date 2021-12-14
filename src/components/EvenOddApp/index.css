@@ -1,0 +1,26 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+  height: 100vh;
+}
+
+.card-container {
+  height: 70%;
+  width: 30%;
+  background-color: palevioletred;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.button-name {
+  height: 30px;
+  width: 130px;
+  background-color: white;
+  border-radius: 8px;
+  border-color: black;
+}
